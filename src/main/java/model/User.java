@@ -9,7 +9,7 @@ import javax.persistence.Table;
 import org.hibernate.annotations.GeneratorType;
 
 @Entity
-@Table(name = "users_teste")
+@Table(name = "users")
 public class User {
 
 	@Id
