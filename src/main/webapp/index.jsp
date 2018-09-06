@@ -1,5 +1,5 @@
 <html>
-<body>
-<h2>Hello World!</h2>
-</body>
+	<body>
+		<h2>Hey, Eclipse project on!</h2>
+	</body>
 </html>

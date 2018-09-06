@@ -12,9 +12,11 @@
 
 		<properties>
 			<property name="javax.persistence.jdbc.driver" value="org.apache.derby.jdbc.EmbeddedDriver" />
-			<property name="javax.persistence.jdbc.url" value="jdbc:derby:database\\ecommerce_lite;create=true" />
-			<property name="hibernate.show_sql" value="true" />
+			<!-- <property name="javax.persistence.jdbc.url" value="jdbc:derby:database\\ecommerce_lite;create=true" /> -->
+			<property name="javax.persistence.jdbc.url" value="jdbc:derby:D:\\Users\\Leticia Torres\\eclipse-workspace\\EcommerceLite\\database\\ecommerce_lite;create=true" />
+			<property name="hibernate.dialect" value="org.hibernate.dialect.DerbyDialect"/>
 			
+			<property name="hibernate.show_sql" value="true" />
 			<property name="hibernate.hbm2ddl.auto" value="update"/>
 		</properties>
 
