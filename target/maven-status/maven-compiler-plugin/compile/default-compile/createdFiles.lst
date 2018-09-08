@@ -3,4 +3,3 @@ model\Product.class
 model\Item.class
 resource\ProductResource.class
 model\Order.class
-model\User.class

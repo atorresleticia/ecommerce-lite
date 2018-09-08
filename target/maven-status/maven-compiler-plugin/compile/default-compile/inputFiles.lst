@@ -1,7 +1,11 @@
+D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\dao\ItemDao.java
 D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\dao\ProductDao.java
-D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\main\Main.java
+D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\resource\OrderResource.java
 D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\model\Product.java
+D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\resource\CheckoutResource.java
+D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\model\Checkout.java
+D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\dao\OrderDao.java
 D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\model\Order.java
+D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\resource\ItemResource.java
 D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\model\Item.java
 D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\resource\ProductResource.java
-D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\src\main\java\model\User.java

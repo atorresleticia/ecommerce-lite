@@ -1,5 +1,5 @@
 <html>
 	<body>
-		<h2>Hey, Eclipse project on!</h2>
+		<h2>E-Commerce Lite API</h2>
 	</body>
 </html>

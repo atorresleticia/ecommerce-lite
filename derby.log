@@ -1,7 +1,13 @@
 ----------------------------------------------------------------
-Thu Sep 06 14:42:30 BRT 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0165-affa-6f35-00000953d858 
-on database directory D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\database\ecommerce_lite  with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Sat Sep 08 01:23:42 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0165-b76b-d4a1-000018b30400 
+on database directory D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\Database\ecommerce_lite  with class loader WebappClassLoader
+  context: /ecommerce-lite
+  delegate: false
+  repositories:
+----------> Parent Classloader:
+ClassRealm[plugin>org.apache.tomcat.maven:tomcat7-maven-plugin:2.2, parent: sun.misc.Launcher$AppClassLoader@5c647e05]
+ 
 Loaded from file:/C:/Users/Leticia%20Torres/.m2/repository/org/apache/derby/derby/10.8.3.0/derby-10.8.3.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_144-b01
