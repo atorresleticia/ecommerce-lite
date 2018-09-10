@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sat Sep 08 01:23:42 BRT 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0165-b76b-d4a1-000018b30400 
+Mon Sep 10 10:23:25 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0165-c3a6-b034-0000190f0ce0 
 on database directory D:\Users\Leticia Torres\eclipse-workspace\EcommerceLite\Database\ecommerce_lite  with class loader WebappClassLoader
   context: /ecommerce-lite
   delegate: false
