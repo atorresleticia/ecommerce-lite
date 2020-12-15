@@ -1,4 +1,4 @@
-# ecommerce-lite
+# E-Commerce Lite
 
 Java Maven RESTFul + JPA API developed using Eclipse Photon
 
